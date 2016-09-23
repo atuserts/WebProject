@@ -79,7 +79,7 @@ namespace TestProject8
             HtmlInputText input = Find.ById<HtmlInputText>("Email");
             ExternalClass2 class2Instance = new ExternalClass2();
             //input.BaseElement.;
-            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod());
+            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod()); 
         }
     }
 }
