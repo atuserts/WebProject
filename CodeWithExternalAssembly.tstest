@@ -192,12 +192,12 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "d3ba603c-2eb7-4990-b42e-a40ccac5062d",
-            "Description": "[CodeWithExternalAssembly_CodedStep] : New Coded Step",
+            "Description": "New Coded Step",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
               "__value": {
-                "Code": "            HtmlInputText input = Find.ById<HtmlInputText>(\"Email\");\n            ExternalClass2 class2Instance = new ExternalClass2();\n            //input.BaseElement.;\n            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod());",
+                "Code": "            HtmlInputText input = Find.ById<HtmlInputText>(\"Email\");\r\n            ExternalClass2 class2Instance = new ExternalClass2();\r\n            //input.BaseElement.;\r\n            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod());",
                 "RequiresSilverlight": false,
                 "WaitOnElements": true,
                 "WaitOnElementsTimeout": 10000,
