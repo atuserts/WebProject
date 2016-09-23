@@ -1,0 +1,268 @@
+    ======  ======
+    Time:9/21/2016 2:04:46 PM
+    Title: Initiate log
+    Message: 
+    Time:9/21/2016 2:04:46 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:9/21/2016 2:04:46 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:9/21/2016 2:04:46 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:9/21/2016 2:04:46 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:9/21/2016 2:04:46 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Uncategorized: Orchestrator._iUIProject_ProjectOpened() : Project 'WebProject' Opened.
+    Uncategorized: Orchestrator.set_SelectedProject() : Active Project is : 'WebProject'
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Extract elements time: 00:00:00.5311509
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Merge elements time: 00:00:00.1337299
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Total Elements count: 116
+    TestStudio: ElementsExplorerViewModel.SyncNodes() : Added 97 visual elements in the Elements Explorer tree.
+    Error: CodeService.CreateLanguageDataHelper() : EXCEPTION! (see below)
+     Situation: Error loading referenced assembly
+     Outer Exception Type: System.ArgumentNullException
+     Message: Value cannot be null.
+          Parameter name: path
+     HRESULT: 0x80004003 (Official ID (if app.) = E_POINTER, Error Bit = FAILED, Facility = FACILITY_NULL, Code = 16387)
+     Call Stack:
+          at ActiproSoftware.Text.Languages.DotNet.Reflection.Implementation.AssemblyRepositoryBase.LoadFrom(String path)
+          at #Grc.#tsc.AddFrom(String #hd)
+          at ArtOfTest.WebAii.Design.CodeGeneration.CodeService.CreateLanguageDataHelper(Object sender, DoWorkEventArgs e)
+
+    Error: CodeService.CreateLanguageDataHelper() : EXCEPTION! (see below)
+     Situation: Error loading referenced assembly
+     Outer Exception Type: System.ArgumentNullException
+     Message: Value cannot be null.
+          Parameter name: path
+     HRESULT: 0x80004003 (Official ID (if app.) = E_POINTER, Error Bit = FAILED, Facility = FACILITY_NULL, Code = 16387)
+     Call Stack:
+          at ActiproSoftware.Text.Languages.DotNet.Reflection.Implementation.AssemblyRepositoryBase.LoadFrom(String path)
+          at #Grc.#tsc.AddFrom(String #hd)
+          at ArtOfTest.WebAii.Design.CodeGeneration.CodeService.CreateLanguageDataHelper(Object sender, DoWorkEventArgs e)
+
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'CodedStep' selected.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Uncategorized: Orchestrator._iUIProject_TestSelected() : Test 'CodedTest' selected.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Warning: PipeCommunication.SyncPipeRead() : Pipe was already disposed at the moment of the read attempt.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.AddNewBrowser() : Added client ID "f82c6f1b-bfd0-4166-8255-b3b2d1ed6cb0" (now there is/are 1 total).
+    Framework: Manager.RemoveBrowser() : Removed client ID "f82c6f1b-bfd0-4166-8255-b3b2d1ed6cb0" (0 remaining).
+    Framework: Manager.SetActiveBrowser() : Active browser is now null.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly1.dll.
+    Framework: TestAppLoader.LoadRefAssemblies() : External assembly loaded into the AppDomain: C:\Work\WebProject\bin\ExternalAssembly2.dll.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Error: RunnerController.Run() : EXCEPTION! (see below)
+     Outer Exception Type: System.IO.IOException
+     Message: Pipe is broken.
+     HRESULT: 0x8007006D (Official ID (if app.) = 2147942509, Error Bit = FAILED, Facility = FACILITY_WIN32, Code = ERROR_BROKEN_PIPE)
+     Call Stack:
+          at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+          at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+          at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+          at ArtOfTest.WebAii.Messaging.Process.PipeCommunication.WriteCommandToPipe(PipeCommand command, PipeStream pipe, Boolean waitForDrain)
+          at ArtOfTest.WebAii.Design.Execution.RunnerController.Run(Test test, Settings settings, DesignTimeExecutionParams designTimeExecutionParams, String binaryFolder, String deploymentFolder, ExecutionType exeType, Guid firstStepGuid, Guid lastStepGuid, IntPtr existingBrowserHandle, DebuggerOptions debuggerOptions, String trafficLogFilename)
+
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Framework: FireFoxInstallation.EnumFireFoxInstallations() : Valid Firefox 48.0.0.2 installation found at "C:\Program Files (x86)\Mozilla Firefox\firefox.exe".
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Error: RegistryHelper.PerformActionOnCurrentKey() : Cannot locate HKEY_LOCAL_MACHINE\SOFTWARE\Apple Computer, Inc.\Safari
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: Manager.get_ActiveBrowser() : The current ActiveBrowser is either invisible or disconnected.
+    Framework: InternetExplorerActions.LaunchNewBrowserInstance() : Process launched (ID=2056, Path="C:\Program Files\Internet Explorer\iexplore.exe", Arguments="-nomerge https://www.wikipedia.org/").
+    Framework: InternetExplorerActions.LaunchNewBrowserInstance() : Attempting to attach on IE frame (HWND=2622040)...
+    Framework: Connector.Start() : Process launched (ID=5208, Path="C:\Windows\SysWOW64\rundll32.exe", Arguments=""C:\Program Files (x86)\Telerik\Test Studio\Bin\ArtOfTest.Connector.dll",AttachToWindowEntryPoint 394588").
+    Framework: Connector.Start() : Process exited (ID=5208, ExitCode=0, Path="C:\Windows\SysWOW64\rundll32.exe", Arguments=""C:\Program Files (x86)\Telerik\Test Studio\Bin\ArtOfTest.Connector.dll",AttachToWindowEntryPoint 394588").
+    Framework: InternetExplorerActions.LaunchNewBrowserInstance() : Process "Telerik.TestStudio.Desktop" (ID=3984) is assumed to host the controller.
+    Framework: Connector.InjectCode() : ------- Function Start -------
+    Framework: Connector.InjectCode() : Connection string: C:\Windows\Microsoft.Net\assembly\GAC_MSIL\ArtOfTest.InternetExplorer\v4.0_2016.3.921.0__5339893a7cefe4d6\ArtOfTest.InternetExplorer.dll?ArtOfTest.InternetExplorer.ArtOfTestPluginEntryPoint?3984
+    Framework: InternetExplorerActions.WaitForDocument() : Attempting to get IHTMLDocument2 from Internet Explorer HWND 394588 on another thread...
+    Framework: <>c__DisplayClass25_3.<WaitForDocument>b__1() : Attempting to get document from window handle
+    Framework: InternetExplorerActions.WaitForDocument() : IHTMLDocument2 successfully retrieved.
+    Framework: Connector.InjectCode() : Sending WM_COPYDATA to HWND 394588 (lpData = "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\ArtOfTest.InternetExplorer\v4.0_2016.3.921.0__5339893a7cefe4d6\ArtOfTest.InternetExplorer.dll?ArtOfTest.InternetExplorer.ArtOfTestPluginEntryPoint?3984")...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe.
+    Framework: BrowserRemoted.AsyncListenerThreadEntry() : Not connected; this will now wait indefinitely for a pipe client connection...
+    Framework: BrowserRemoted.AsyncListenerThreadEntry() : A new client has connected to the pipe.
+    Framework: BrowserRemoted.AsyncListenerThreadEntry() : Now waiting indefinitely for a command from the pipe client...
+    Framework: Manager.AddNewBrowser() : Added client ID "Client_0b2c04c3-1169-4eb4-a150-cf06c7913625" (now there is/are 1 total).
+    Framework: Connector.InjectCode() : Returned from sending WM_COPYDATA (LRESULT=0, GetLastError()=ERROR_ALREADY_EXISTS).
+    Framework: Connector.InjectCode() : ------- Function End -------
+    Framework: Connector.Start() : Process launched (ID=5956, Path="C:\Windows\SysWOW64\rundll32.exe", Arguments=""C:\Program Files (x86)\Telerik\Test Studio\Bin\ArtOfTest.Connector.dll",AttachToWindowEntryPoint 394588").
+    Framework: Connector.Start() : Process exited (ID=5956, ExitCode=0, Path="C:\Windows\SysWOW64\rundll32.exe", Arguments=""C:\Program Files (x86)\Telerik\Test Studio\Bin\ArtOfTest.Connector.dll",AttachToWindowEntryPoint 394588").
+    Framework: Connector.InjectCode() : ------- Function Start -------
+    Framework: Connector.InjectCode() : Connection string: C:\Windows\Microsoft.Net\assembly\GAC_MSIL\ArtOfTest.WebAii.Design.RemoteRecorder\v4.0_2016.3.921.0__56fa9668d21d4722\ArtOfTest.WebAii.Design.RemoteRecorder.dll?ArtOfTest.WebAii.Design.RemoteRecorder.RemotedRecorderEntryPoint?3984
+    Framework: InternetExplorerActions.WaitForDocument() : Attempting to get IHTMLDocument2 from Internet Explorer HWND 394588 on another thread...
+    Framework: <>c__DisplayClass25_3.<WaitForDocument>b__1() : Attempting to get document from window handle
+    Framework: InternetExplorerActions.WaitForDocument() : IHTMLDocument2 successfully retrieved.
+    Framework: Connector.InjectCode() : Sending WM_COPYDATA to HWND 394588 (lpData = "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\ArtOfTest.WebAii.Design.RemoteRecorder\v4.0_2016.3.921.0__56fa9668d21d4722\ArtOfTest.WebAii.Design.RemoteRecorder.dll?ArtOfTest.WebAii.Design.RemoteRecorder.RemotedRecorderEntryPoint?3984")...
+    Framework: Connector.InjectCode() : Returned from sending WM_COPYDATA (LRESULT=0, GetLastError()=ERROR_ALREADY_EXISTS).
+    Framework: Connector.InjectCode() : ------- Function End -------
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_-1036765843" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.AddDialog() : Added {OnBeforeUnloadDialog(Dismiss=OK)} for monitoring.
+    Framework: Manager.RemoveBrowser() : Removed client ID "Client_0b2c04c3-1169-4eb4-a150-cf06c7913625" (0 remaining).
+    Framework: Manager.SetActiveBrowser() : Active browser is now null.
+    Framework: BrowserRemoted.End() : Now aborting the listener thread (TID = 14).
+    TestStudio: <>c__DisplayClass1_0.<TrackProject>b__3() : EQAT json steps read time: 00:00:00.1206268
+    Warning: PipeCommunication.SyncPipeRead() : Pipe read broken by thread-abort.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_527335966" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
