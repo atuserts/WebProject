@@ -197,7 +197,7 @@
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
               "__value": {
-                "Code": "            HtmlInputText input = Find.ById<HtmlInputText>(\"Email\");\r\n            ExternalClass2 class2Instance = new ExternalClass2();\r\n            //input.BaseElement.;\r\n            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod());",
+                "Code": "            HtmlInputText input = Find.ById<HtmlInputText>(\"Email\");\r\n            ExternalClass2 class2Instance = new ExternalClass2();\r\n            //input.BaseElement.;\r\n            Manager.Desktop.KeyBoard.TypeText(class2Instance.ExternalMethod()); ",
                 "RequiresSilverlight": false,
                 "WaitOnElements": true,
                 "WaitOnElementsTimeout": 10000,
