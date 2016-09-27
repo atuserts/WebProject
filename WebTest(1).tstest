@@ -320,7 +320,7 @@
                 "DataBindingExpressions": {}
               }
             },
-            "Enabled": true,
+            "Enabled": false,
             "Order": 4,
             "Id": "WebTest1_CodedStep",
             "StepState": 1,
